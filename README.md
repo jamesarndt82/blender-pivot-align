@@ -1,8 +1,6 @@
 # Blender Pivot Align
 
-Blender Pivot Align is a compact Blender add-on for quickly positioning and rotating an object's pivot from the 3D Viewport.
-
-It provides simple one-click controls for common pivot operations, a dedicated pivot editing mode, and two-way matching between the object pivot and Blender's 3D Cursor.
+Blender Pivot Align is a compact Blender add-on for quickly positioning and rotating an object's pivot from the 3D Viewport. It provides simple one-click controls for common pivot operations, a dedicated pivot editing mode, and two-way matching between the object pivot and Blender's 3D Cursor.
 
 <img height="400" alt="Screenshot" src="https://github.com/user-attachments/assets/4a9117c7-9fe6-4262-aba9-479a1a5af774" />
 
